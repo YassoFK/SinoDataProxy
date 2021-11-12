@@ -1,3 +1,8 @@
+#<SinoDataProxy>  Copyright (C) <2021>  <ComNav Technology Ltd.>
+#This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+#This is free software, and you are welcome to redistribute it
+#under certain conditions; type `show c' for details.
+
 #include "mainwindow.h"
 
 #include <QApplication>
@@ -7,7 +12,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-//    QTextCodec *codec = QTextCodec::codecForName("GBK");//或者"GBK",不分大小写
+//    QTextCodec *codec = QTextCodec::codecForName("GBK");//禄貌脮脽"GBK",虏禄路脰麓贸脨隆脨麓
 //    QTextCodec::setCodecForLocale(codec);
     MainWindow w;
     w.setWindowIcon(QIcon(":/icons/databranch"));
