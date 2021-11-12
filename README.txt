@@ -1,8 +1,8 @@
-#SinoDataProxy
+
 <SinoDataProxy is a data proxy tool based on STRSVR and QT.It was designed to
  manage numerous STRSVR connection and make all connections visualized.>
-    Copyright (C) <2021>  <ComNav Technology Ltd.>
- 
+    Copyright (C) <2021> <ComNav Technology Ltd.>
+	
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
